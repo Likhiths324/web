@@ -14,7 +14,7 @@ h4{
   padding-top: 20px;
 }
 .a{
-  background-color: green;
+  background-color: powderblue;
   position: relative;
   padding: 100px;
 }
@@ -30,14 +30,14 @@ h4{
 }
 .top-cloud{
   width: 150px;
-  position: absolute;
+  position: fixed;
   right: 300px;
   top:25px;
 }
 
 .bottom-cloud{
   width: 150px;
-  position: absolute;
+  position: fixed;
   left: 300px;
   bottom: 300px;
 }
