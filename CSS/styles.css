@@ -44,7 +44,7 @@ h4{
 .mountain{
   width: 600px;
   height: 400px;
-  position: relative;
+  position: absolute;
   top: 90px;
 }
 
