@@ -1,1 +1,76 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1{
+  width: 10%;
+  margin: 0 auto 0 auto;
+}
+
+h4{
+  margin:0;
+  padding-top: 20px;
+}
+.a{
+  background-color: powderblue;
+  position: relative;
+  padding: 100px;
+}
+
+.b{
+  background-color: powderblue;
+}
+.c{
+  background-color: powderblue;
+}
+.d{
+  background-color: powderblue;
+}
+.top-cloud{
+  width: 150px;
+  position: fixed;
+  right: 300px;
+  top:25px;
+}
+
+.bottom-cloud{
+  width: 150px;
+  position: fixed;
+  left: 300px;
+  bottom: 300px;
+}
+.mountain{
+  width: 600px;
+  height: 400px;
+  position: relative;
+  top: 90px;
+}
+
+.circular{
+  border-radius: 100px;
+  background-color: powderblue;
+}
+
+.p{
+  background-color: powderblue;
+  margin:0;
+  padding-bottom: 20px;
+}
+
+.skill{
+  margin:0;
+  padding: 20px;
+}
+
+.horizontal{
+  border-color: powderblue;
+  margin: 0;
+}
+
+.drawing{
+  margin:0;
+  padding-bottom: 0;
+}
 
